@@ -8,6 +8,18 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <UITableViewDataSource, UITableViewDelegate>
+
+{
+    IBOutlet UITableView *tableView;
+    IBOutlet UITableView *myTableView;
+    NSMutableArray *groceryArray;
+}
+
+-(IBAction)buttonClicked:(id)sender;
+
+@property (weak, nonatomic) IBOutlet UILabel *groceryLabel;
+@property (nonatomic, retain)IBOutlet UIButton *editButton;
+
 
 @end
