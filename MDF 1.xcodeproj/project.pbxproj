@@ -22,30 +22,35 @@
 		6EA89B85187F1CC00044B522 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6EA89B83187F1CC00044B522 /* InfoPlist.strings */; };
 		6EA89B87187F1CC00044B522 /* MDF_1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6EA89B86187F1CC00044B522 /* MDF_1Tests.m */; };
 		6EA89B92187F87AD0044B522 /* CustomCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6EA89B91187F87AD0044B522 /* CustomCell.m */; };
-		6EA89BA7187F90A30044B522 /* supplements.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA89B93187F90A20044B522 /* supplements.png */; };
-		6EA89BA8187F90A30044B522 /* beverages.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA89B94187F90A20044B522 /* beverages.png */; };
-		6EA89BA9187F90A30044B522 /* pet-food.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA89B95187F90A20044B522 /* pet-food.png */; };
-		6EA89BAA187F90A30044B522 /* canned-food.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA89B96187F90A20044B522 /* canned-food.png */; };
-		6EA89BAB187F90A30044B522 /* baby-food.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA89B97187F90A20044B522 /* baby-food.png */; };
-		6EA89BAC187F90A30044B522 /* condiments.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA89B98187F90A20044B522 /* condiments.png */; };
-		6EA89BAD187F90A30044B522 /* dairy.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA89B99187F90A20044B522 /* dairy.png */; };
-		6EA89BAE187F90A30044B522 /* spices.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA89B9A187F90A20044B522 /* spices.png */; };
-		6EA89BAF187F90A30044B522 /* sugar.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA89B9B187F90A20044B522 /* sugar.png */; };
-		6EA89BB0187F90A30044B522 /* eggs.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA89B9C187F90A20044B522 /* eggs.png */; };
-		6EA89BB1187F90A30044B522 /* beans.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA89B9D187F90A20044B522 /* beans.png */; };
-		6EA89BB2187F90A30044B522 /* _cereals.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA89B9E187F90A20044B522 /* _cereals.png */; };
-		6EA89BB3187F90A30044B522 /* nuts.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA89B9F187F90A20044B522 /* nuts.png */; };
-		6EA89BB4187F90A30044B522 /* grain.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA89BA0187F90A20044B522 /* grain.png */; };
-		6EA89BB5187F90A30044B522 /* seafood.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA89BA1187F90A20044B522 /* seafood.png */; };
-		6EA89BB6187F90A30044B522 /* pork.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA89BA2187F90A30044B522 /* pork.png */; };
-		6EA89BB7187F90A30044B522 /* chicken.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA89BA3187F90A30044B522 /* chicken.png */; };
-		6EA89BB8187F90A30044B522 /* beef.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA89BA4187F90A30044B522 /* beef.png */; };
-		6EA89BB9187F90A30044B522 /* vegetables.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA89BA5187F90A30044B522 /* vegetables.png */; };
-		6EA89BBA187F90A30044B522 /* fruit.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA89BA6187F90A30044B522 /* fruit.png */; };
 		6EA89BBD187F916A0044B522 /* FoodCustomClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 6EA89BBC187F916A0044B522 /* FoodCustomClass.m */; };
 		6EA89BC0188094A80044B522 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6EA89BBF188094A80044B522 /* DetailViewController.m */; };
-		6EA89BC3188223270044B522 /* Default-Portrait.png  in Resources */ = {isa = PBXBuildFile; fileRef = 6EA89BC1188223270044B522 /* Default-Portrait.png  */; };
-		6EA89BC4188223270044B522 /* Default-Portrait@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EA89BC2188223270044B522 /* Default-Portrait@2x.png */; };
+		6EF39B7B188347DD002ED2A9 /* Default-Portrait.png  in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B60188347DD002ED2A9 /* Default-Portrait.png  */; };
+		6EF39B7C188347DD002ED2A9 /* Default-Portrait.png  copy in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B61188347DD002ED2A9 /* Default-Portrait.png  copy */; };
+		6EF39B7D188347DD002ED2A9 /* Default-Portrait.png  copy 2 in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B62188347DD002ED2A9 /* Default-Portrait.png  copy 2 */; };
+		6EF39B7E188347DD002ED2A9 /* Default-Portrait@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B63188347DD002ED2A9 /* Default-Portrait@2x.png */; };
+		6EF39B7F188347DD002ED2A9 /* gcn_appIcon_75.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B64188347DD002ED2A9 /* gcn_appIcon_75.png */; };
+		6EF39B80188347DD002ED2A9 /* gnc_appIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B65188347DD002ED2A9 /* gnc_appIcon.png */; };
+		6EF39B81188347DD002ED2A9 /* gnc_launch.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B66188347DD002ED2A9 /* gnc_launch.png */; };
+		6EF39B82188347DD002ED2A9 /* supplements.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B67188347DD002ED2A9 /* supplements.png */; };
+		6EF39B83188347DD002ED2A9 /* beverages.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B68188347DD002ED2A9 /* beverages.png */; };
+		6EF39B84188347DD002ED2A9 /* pet-food.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B69188347DD002ED2A9 /* pet-food.png */; };
+		6EF39B85188347DD002ED2A9 /* canned-food.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B6A188347DD002ED2A9 /* canned-food.png */; };
+		6EF39B86188347DD002ED2A9 /* baby-food.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B6B188347DD002ED2A9 /* baby-food.png */; };
+		6EF39B87188347DD002ED2A9 /* condiments.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B6C188347DD002ED2A9 /* condiments.png */; };
+		6EF39B88188347DD002ED2A9 /* dairy.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B6D188347DD002ED2A9 /* dairy.png */; };
+		6EF39B89188347DD002ED2A9 /* spices.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B6E188347DD002ED2A9 /* spices.png */; };
+		6EF39B8A188347DD002ED2A9 /* sugar.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B6F188347DD002ED2A9 /* sugar.png */; };
+		6EF39B8B188347DD002ED2A9 /* eggs.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B70188347DD002ED2A9 /* eggs.png */; };
+		6EF39B8C188347DD002ED2A9 /* beans.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B71188347DD002ED2A9 /* beans.png */; };
+		6EF39B8D188347DD002ED2A9 /* _cereals.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B72188347DD002ED2A9 /* _cereals.png */; };
+		6EF39B8E188347DD002ED2A9 /* nuts.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B73188347DD002ED2A9 /* nuts.png */; };
+		6EF39B8F188347DD002ED2A9 /* grain.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B74188347DD002ED2A9 /* grain.png */; };
+		6EF39B90188347DD002ED2A9 /* seafood.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B75188347DD002ED2A9 /* seafood.png */; };
+		6EF39B91188347DD002ED2A9 /* pork.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B76188347DD002ED2A9 /* pork.png */; };
+		6EF39B92188347DD002ED2A9 /* chicken.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B77188347DD002ED2A9 /* chicken.png */; };
+		6EF39B93188347DD002ED2A9 /* beef.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B78188347DD002ED2A9 /* beef.png */; };
+		6EF39B94188347DD002ED2A9 /* vegetables.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B79188347DD002ED2A9 /* vegetables.png */; };
+		6EF39B95188347DD002ED2A9 /* fruit.png in Resources */ = {isa = PBXBuildFile; fileRef = 6EF39B7A188347DD002ED2A9 /* fruit.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -80,32 +85,37 @@
 		6EA89B86187F1CC00044B522 /* MDF_1Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MDF_1Tests.m; sourceTree = "<group>"; };
 		6EA89B90187F87AD0044B522 /* CustomCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomCell.h; sourceTree = "<group>"; };
 		6EA89B91187F87AD0044B522 /* CustomCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomCell.m; sourceTree = "<group>"; };
-		6EA89B93187F90A20044B522 /* supplements.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = supplements.png; path = "../Desktop/Grocery icons/for web/supplements.png"; sourceTree = "<group>"; };
-		6EA89B94187F90A20044B522 /* beverages.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = beverages.png; path = "../Desktop/Grocery icons/for web/beverages.png"; sourceTree = "<group>"; };
-		6EA89B95187F90A20044B522 /* pet-food.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pet-food.png"; path = "../Desktop/Grocery icons/for web/pet-food.png"; sourceTree = "<group>"; };
-		6EA89B96187F90A20044B522 /* canned-food.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "canned-food.png"; path = "../Desktop/Grocery icons/for web/canned-food.png"; sourceTree = "<group>"; };
-		6EA89B97187F90A20044B522 /* baby-food.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "baby-food.png"; path = "../Desktop/Grocery icons/for web/baby-food.png"; sourceTree = "<group>"; };
-		6EA89B98187F90A20044B522 /* condiments.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = condiments.png; path = "../Desktop/Grocery icons/for web/condiments.png"; sourceTree = "<group>"; };
-		6EA89B99187F90A20044B522 /* dairy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dairy.png; path = "../Desktop/Grocery icons/for web/dairy.png"; sourceTree = "<group>"; };
-		6EA89B9A187F90A20044B522 /* spices.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = spices.png; path = "../Desktop/Grocery icons/for web/spices.png"; sourceTree = "<group>"; };
-		6EA89B9B187F90A20044B522 /* sugar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sugar.png; path = "../Desktop/Grocery icons/for web/sugar.png"; sourceTree = "<group>"; };
-		6EA89B9C187F90A20044B522 /* eggs.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = eggs.png; path = "../Desktop/Grocery icons/for web/eggs.png"; sourceTree = "<group>"; };
-		6EA89B9D187F90A20044B522 /* beans.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = beans.png; path = "../Desktop/Grocery icons/for web/beans.png"; sourceTree = "<group>"; };
-		6EA89B9E187F90A20044B522 /* _cereals.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = _cereals.png; path = "../Desktop/Grocery icons/for web/_cereals.png"; sourceTree = "<group>"; };
-		6EA89B9F187F90A20044B522 /* nuts.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = nuts.png; path = "../Desktop/Grocery icons/for web/nuts.png"; sourceTree = "<group>"; };
-		6EA89BA0187F90A20044B522 /* grain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = grain.png; path = "../Desktop/Grocery icons/for web/grain.png"; sourceTree = "<group>"; };
-		6EA89BA1187F90A20044B522 /* seafood.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = seafood.png; path = "../Desktop/Grocery icons/for web/seafood.png"; sourceTree = "<group>"; };
-		6EA89BA2187F90A30044B522 /* pork.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pork.png; path = "../Desktop/Grocery icons/for web/pork.png"; sourceTree = "<group>"; };
-		6EA89BA3187F90A30044B522 /* chicken.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = chicken.png; path = "../Desktop/Grocery icons/for web/chicken.png"; sourceTree = "<group>"; };
-		6EA89BA4187F90A30044B522 /* beef.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = beef.png; path = "../Desktop/Grocery icons/for web/beef.png"; sourceTree = "<group>"; };
-		6EA89BA5187F90A30044B522 /* vegetables.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = vegetables.png; path = "../Desktop/Grocery icons/for web/vegetables.png"; sourceTree = "<group>"; };
-		6EA89BA6187F90A30044B522 /* fruit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fruit.png; path = "../Desktop/Grocery icons/for web/fruit.png"; sourceTree = "<group>"; };
 		6EA89BBB187F916A0044B522 /* FoodCustomClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FoodCustomClass.h; sourceTree = "<group>"; };
 		6EA89BBC187F916A0044B522 /* FoodCustomClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FoodCustomClass.m; sourceTree = "<group>"; };
 		6EA89BBE188094A80044B522 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
 		6EA89BBF188094A80044B522 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
-		6EA89BC1188223270044B522 /* Default-Portrait.png  */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Default-Portrait.png "; path = "../Desktop/Grocery icons/for web/Default-Portrait.png "; sourceTree = "<group>"; };
-		6EA89BC2188223270044B522 /* Default-Portrait@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-Portrait@2x.png"; path = "../Desktop/Grocery icons/for web/Default-Portrait@2x.png"; sourceTree = "<group>"; };
+		6EF39B60188347DD002ED2A9 /* Default-Portrait.png  */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Default-Portrait.png "; path = "../../Desktop/MDF 1/Grocery icons/for web/Default-Portrait.png "; sourceTree = "<group>"; };
+		6EF39B61188347DD002ED2A9 /* Default-Portrait.png  copy */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Default-Portrait.png  copy"; path = "../../Desktop/MDF 1/Grocery icons/for web/Default-Portrait.png  copy"; sourceTree = "<group>"; };
+		6EF39B62188347DD002ED2A9 /* Default-Portrait.png  copy 2 */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Default-Portrait.png  copy 2"; path = "../../Desktop/MDF 1/Grocery icons/for web/Default-Portrait.png  copy 2"; sourceTree = "<group>"; };
+		6EF39B63188347DD002ED2A9 /* Default-Portrait@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-Portrait@2x.png"; path = "../../Desktop/MDF 1/Grocery icons/for web/Default-Portrait@2x.png"; sourceTree = "<group>"; };
+		6EF39B64188347DD002ED2A9 /* gcn_appIcon_75.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = gcn_appIcon_75.png; path = "../../Desktop/MDF 1/Grocery icons/for web/gcn_appIcon_75.png"; sourceTree = "<group>"; };
+		6EF39B65188347DD002ED2A9 /* gnc_appIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = gnc_appIcon.png; path = "../../Desktop/MDF 1/Grocery icons/for web/gnc_appIcon.png"; sourceTree = "<group>"; };
+		6EF39B66188347DD002ED2A9 /* gnc_launch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = gnc_launch.png; path = "../../Desktop/MDF 1/Grocery icons/for web/gnc_launch.png"; sourceTree = "<group>"; };
+		6EF39B67188347DD002ED2A9 /* supplements.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = supplements.png; path = "../../Desktop/MDF 1/Grocery icons/for web/supplements.png"; sourceTree = "<group>"; };
+		6EF39B68188347DD002ED2A9 /* beverages.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = beverages.png; path = "../../Desktop/MDF 1/Grocery icons/for web/beverages.png"; sourceTree = "<group>"; };
+		6EF39B69188347DD002ED2A9 /* pet-food.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pet-food.png"; path = "../../Desktop/MDF 1/Grocery icons/for web/pet-food.png"; sourceTree = "<group>"; };
+		6EF39B6A188347DD002ED2A9 /* canned-food.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "canned-food.png"; path = "../../Desktop/MDF 1/Grocery icons/for web/canned-food.png"; sourceTree = "<group>"; };
+		6EF39B6B188347DD002ED2A9 /* baby-food.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "baby-food.png"; path = "../../Desktop/MDF 1/Grocery icons/for web/baby-food.png"; sourceTree = "<group>"; };
+		6EF39B6C188347DD002ED2A9 /* condiments.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = condiments.png; path = "../../Desktop/MDF 1/Grocery icons/for web/condiments.png"; sourceTree = "<group>"; };
+		6EF39B6D188347DD002ED2A9 /* dairy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dairy.png; path = "../../Desktop/MDF 1/Grocery icons/for web/dairy.png"; sourceTree = "<group>"; };
+		6EF39B6E188347DD002ED2A9 /* spices.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = spices.png; path = "../../Desktop/MDF 1/Grocery icons/for web/spices.png"; sourceTree = "<group>"; };
+		6EF39B6F188347DD002ED2A9 /* sugar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sugar.png; path = "../../Desktop/MDF 1/Grocery icons/for web/sugar.png"; sourceTree = "<group>"; };
+		6EF39B70188347DD002ED2A9 /* eggs.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = eggs.png; path = "../../Desktop/MDF 1/Grocery icons/for web/eggs.png"; sourceTree = "<group>"; };
+		6EF39B71188347DD002ED2A9 /* beans.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = beans.png; path = "../../Desktop/MDF 1/Grocery icons/for web/beans.png"; sourceTree = "<group>"; };
+		6EF39B72188347DD002ED2A9 /* _cereals.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = _cereals.png; path = "../../Desktop/MDF 1/Grocery icons/for web/_cereals.png"; sourceTree = "<group>"; };
+		6EF39B73188347DD002ED2A9 /* nuts.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = nuts.png; path = "../../Desktop/MDF 1/Grocery icons/for web/nuts.png"; sourceTree = "<group>"; };
+		6EF39B74188347DD002ED2A9 /* grain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = grain.png; path = "../../Desktop/MDF 1/Grocery icons/for web/grain.png"; sourceTree = "<group>"; };
+		6EF39B75188347DD002ED2A9 /* seafood.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = seafood.png; path = "../../Desktop/MDF 1/Grocery icons/for web/seafood.png"; sourceTree = "<group>"; };
+		6EF39B76188347DD002ED2A9 /* pork.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pork.png; path = "../../Desktop/MDF 1/Grocery icons/for web/pork.png"; sourceTree = "<group>"; };
+		6EF39B77188347DD002ED2A9 /* chicken.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = chicken.png; path = "../../Desktop/MDF 1/Grocery icons/for web/chicken.png"; sourceTree = "<group>"; };
+		6EF39B78188347DD002ED2A9 /* beef.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = beef.png; path = "../../Desktop/MDF 1/Grocery icons/for web/beef.png"; sourceTree = "<group>"; };
+		6EF39B79188347DD002ED2A9 /* vegetables.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = vegetables.png; path = "../../Desktop/MDF 1/Grocery icons/for web/vegetables.png"; sourceTree = "<group>"; };
+		6EF39B7A188347DD002ED2A9 /* fruit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fruit.png; path = "../../Desktop/MDF 1/Grocery icons/for web/fruit.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,28 +145,6 @@
 		6EA89B4F187F1CC00044B522 = {
 			isa = PBXGroup;
 			children = (
-				6EA89B93187F90A20044B522 /* supplements.png */,
-				6EA89B94187F90A20044B522 /* beverages.png */,
-				6EA89B95187F90A20044B522 /* pet-food.png */,
-				6EA89B96187F90A20044B522 /* canned-food.png */,
-				6EA89B97187F90A20044B522 /* baby-food.png */,
-				6EA89B98187F90A20044B522 /* condiments.png */,
-				6EA89B99187F90A20044B522 /* dairy.png */,
-				6EA89B9A187F90A20044B522 /* spices.png */,
-				6EA89B9B187F90A20044B522 /* sugar.png */,
-				6EA89B9C187F90A20044B522 /* eggs.png */,
-				6EA89B9D187F90A20044B522 /* beans.png */,
-				6EA89B9E187F90A20044B522 /* _cereals.png */,
-				6EA89B9F187F90A20044B522 /* nuts.png */,
-				6EA89BA0187F90A20044B522 /* grain.png */,
-				6EA89BA1187F90A20044B522 /* seafood.png */,
-				6EA89BA2187F90A30044B522 /* pork.png */,
-				6EA89BA3187F90A30044B522 /* chicken.png */,
-				6EA89BA4187F90A30044B522 /* beef.png */,
-				6EA89BA5187F90A30044B522 /* vegetables.png */,
-				6EA89BA6187F90A30044B522 /* fruit.png */,
-				6EA89BC2188223270044B522 /* Default-Portrait@2x.png */,
-				6EA89BC1188223270044B522 /* Default-Portrait.png  */,
 				6EA89B61187F1CC00044B522 /* MDF 1 */,
 				6EA89B80187F1CC00044B522 /* MDF 1Tests */,
 				6EA89B5A187F1CC00044B522 /* Frameworks */,
@@ -193,6 +181,33 @@
 				6EA89B70187F1CC00044B522 /* ViewController.h */,
 				6EA89B71187F1CC00044B522 /* ViewController.m */,
 				6EA89B73187F1CC00044B522 /* Images.xcassets */,
+				6EF39B60188347DD002ED2A9 /* Default-Portrait.png  */,
+				6EF39B61188347DD002ED2A9 /* Default-Portrait.png  copy */,
+				6EF39B62188347DD002ED2A9 /* Default-Portrait.png  copy 2 */,
+				6EF39B63188347DD002ED2A9 /* Default-Portrait@2x.png */,
+				6EF39B64188347DD002ED2A9 /* gcn_appIcon_75.png */,
+				6EF39B65188347DD002ED2A9 /* gnc_appIcon.png */,
+				6EF39B66188347DD002ED2A9 /* gnc_launch.png */,
+				6EF39B67188347DD002ED2A9 /* supplements.png */,
+				6EF39B68188347DD002ED2A9 /* beverages.png */,
+				6EF39B69188347DD002ED2A9 /* pet-food.png */,
+				6EF39B6A188347DD002ED2A9 /* canned-food.png */,
+				6EF39B6B188347DD002ED2A9 /* baby-food.png */,
+				6EF39B6C188347DD002ED2A9 /* condiments.png */,
+				6EF39B6D188347DD002ED2A9 /* dairy.png */,
+				6EF39B6E188347DD002ED2A9 /* spices.png */,
+				6EF39B6F188347DD002ED2A9 /* sugar.png */,
+				6EF39B70188347DD002ED2A9 /* eggs.png */,
+				6EF39B71188347DD002ED2A9 /* beans.png */,
+				6EF39B72188347DD002ED2A9 /* _cereals.png */,
+				6EF39B73188347DD002ED2A9 /* nuts.png */,
+				6EF39B74188347DD002ED2A9 /* grain.png */,
+				6EF39B75188347DD002ED2A9 /* seafood.png */,
+				6EF39B76188347DD002ED2A9 /* pork.png */,
+				6EF39B77188347DD002ED2A9 /* chicken.png */,
+				6EF39B78188347DD002ED2A9 /* beef.png */,
+				6EF39B79188347DD002ED2A9 /* vegetables.png */,
+				6EF39B7A188347DD002ED2A9 /* fruit.png */,
 				6EA89B62187F1CC00044B522 /* Supporting Files */,
 				6EA89B90187F87AD0044B522 /* CustomCell.h */,
 				6EA89B91187F87AD0044B522 /* CustomCell.m */,
@@ -309,31 +324,36 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6EA89BB2187F90A30044B522 /* _cereals.png in Resources */,
+				6EF39B7E188347DD002ED2A9 /* Default-Portrait@2x.png in Resources */,
+				6EF39B7C188347DD002ED2A9 /* Default-Portrait.png  copy in Resources */,
+				6EF39B87188347DD002ED2A9 /* condiments.png in Resources */,
+				6EF39B89188347DD002ED2A9 /* spices.png in Resources */,
+				6EF39B84188347DD002ED2A9 /* pet-food.png in Resources */,
 				6EA89B74187F1CC00044B522 /* Images.xcassets in Resources */,
 				6EA89B66187F1CC00044B522 /* InfoPlist.strings in Resources */,
-				6EA89BA8187F90A30044B522 /* beverages.png in Resources */,
-				6EA89BAE187F90A30044B522 /* spices.png in Resources */,
-				6EA89BB3187F90A30044B522 /* nuts.png in Resources */,
-				6EA89BAB187F90A30044B522 /* baby-food.png in Resources */,
-				6EA89BC4188223270044B522 /* Default-Portrait@2x.png in Resources */,
-				6EA89BB9187F90A30044B522 /* vegetables.png in Resources */,
-				6EA89BA7187F90A30044B522 /* supplements.png in Resources */,
-				6EA89BAD187F90A30044B522 /* dairy.png in Resources */,
-				6EA89BB0187F90A30044B522 /* eggs.png in Resources */,
+				6EF39B93188347DD002ED2A9 /* beef.png in Resources */,
+				6EF39B8E188347DD002ED2A9 /* nuts.png in Resources */,
+				6EF39B8B188347DD002ED2A9 /* eggs.png in Resources */,
+				6EF39B83188347DD002ED2A9 /* beverages.png in Resources */,
+				6EF39B94188347DD002ED2A9 /* vegetables.png in Resources */,
+				6EF39B7D188347DD002ED2A9 /* Default-Portrait.png  copy 2 in Resources */,
+				6EF39B90188347DD002ED2A9 /* seafood.png in Resources */,
+				6EF39B80188347DD002ED2A9 /* gnc_appIcon.png in Resources */,
+				6EF39B7F188347DD002ED2A9 /* gcn_appIcon_75.png in Resources */,
+				6EF39B92188347DD002ED2A9 /* chicken.png in Resources */,
+				6EF39B8C188347DD002ED2A9 /* beans.png in Resources */,
+				6EF39B91188347DD002ED2A9 /* pork.png in Resources */,
 				6EA89B6F187F1CC00044B522 /* Main.storyboard in Resources */,
-				6EA89BB8187F90A30044B522 /* beef.png in Resources */,
-				6EA89BB4187F90A30044B522 /* grain.png in Resources */,
-				6EA89BB6187F90A30044B522 /* pork.png in Resources */,
-				6EA89BAC187F90A30044B522 /* condiments.png in Resources */,
-				6EA89BB5187F90A30044B522 /* seafood.png in Resources */,
-				6EA89BAA187F90A30044B522 /* canned-food.png in Resources */,
-				6EA89BBA187F90A30044B522 /* fruit.png in Resources */,
-				6EA89BB1187F90A30044B522 /* beans.png in Resources */,
-				6EA89BAF187F90A30044B522 /* sugar.png in Resources */,
-				6EA89BA9187F90A30044B522 /* pet-food.png in Resources */,
-				6EA89BB7187F90A30044B522 /* chicken.png in Resources */,
-				6EA89BC3188223270044B522 /* Default-Portrait.png  in Resources */,
+				6EF39B81188347DD002ED2A9 /* gnc_launch.png in Resources */,
+				6EF39B95188347DD002ED2A9 /* fruit.png in Resources */,
+				6EF39B8D188347DD002ED2A9 /* _cereals.png in Resources */,
+				6EF39B7B188347DD002ED2A9 /* Default-Portrait.png  in Resources */,
+				6EF39B82188347DD002ED2A9 /* supplements.png in Resources */,
+				6EF39B85188347DD002ED2A9 /* canned-food.png in Resources */,
+				6EF39B8F188347DD002ED2A9 /* grain.png in Resources */,
+				6EF39B86188347DD002ED2A9 /* baby-food.png in Resources */,
+				6EF39B8A188347DD002ED2A9 /* sugar.png in Resources */,
+				6EF39B88188347DD002ED2A9 /* dairy.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
